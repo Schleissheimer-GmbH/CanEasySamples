@@ -5,6 +5,6 @@
 		}
 	],
 	"settings": {
-		"robot.language-server.python": "${workspaceFolder}\\Python\\App\\Python\\python.exe"
+		"robot.language-server.python": "${workspaceFolder}/Python/python.exe"
 	}
 }
