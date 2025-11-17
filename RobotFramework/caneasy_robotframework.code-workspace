@@ -5,6 +5,6 @@
 		}
 	],
 	"settings": {
-		"robot.language-server.python": "${workspaceFolder}/Python/python.exe"
+		"python.defaultInterpreterPath": "${workspaceFolder}/python/python.exe"
 	}
 }
